@@ -1,4 +1,4 @@
-Pomodoro Timer
+<h1>Pomodoro Timer</h1>
 A simple Pomodoro timer application built using Python and Tkinter.
 
 Description
