@@ -1,5 +1,5 @@
 <h1 align="center">Pomodoro Timer</h1>
-A simple Pomodoro timer application built using Python and Tkinter.
+<h3 align="center">A simple Pomodoro timer application built using Python and Tkinter.<h3/>
 
 Description
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. This timer application helps users implement the Pomodoro Technique by breaking work into intervals, traditionally 25 minutes in length, separated by short breaks.
