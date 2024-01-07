@@ -13,3 +13,6 @@
 <li>Click the Start button to begin a Pomodoro session.</li>
 <li>Click the Reset button to stop the timer and reset the session.</li>
 <li>Track your completed work sessions with visual checkmarks.</li>
+<h4>Dependencies</h4>
+<li>Python 3</li>
+<li>Tkinter (Python's standard GUI package)</li>
