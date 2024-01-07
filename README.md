@@ -8,3 +8,8 @@
 <li>Short Break: Take a short 5-minute break after each work session.</li>
 <li>Long Break: After completing 4 work sessions, take a long 20-minute break.</li>
 <li>Visual Feedback: Track your progress with visual checkmarks for completed work sessions.</li>
+<h3>How to Use</h3>
+<p1>Run the script.</p1>
+<p2>Click the Start button to begin a Pomodoro session.</p2>
+<p3>Click the Reset button to stop the timer and reset the session.</p3>
+<p4>Track your completed work sessions with visual checkmarks.</p4>
